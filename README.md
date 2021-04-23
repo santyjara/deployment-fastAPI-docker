@@ -2,7 +2,7 @@
 
 This is an example of how to deploy a maching learning model using Scikit-learn, FastAPI and Docker containers, the model is a logistic-regression classifier on the first two dimensions (sepal length and width) of the iris dataset.
 
-
+![image](modelling/sphx_glr_plot_iris_logistic_001.png)
 
 ## Build Docker Image
 
